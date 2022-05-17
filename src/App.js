@@ -23,7 +23,7 @@ function App() {
       <Header />
      <div className='app_itemsContainer'>
        <Item
-        title='Lowest Cost Car in Nigeria'
+        title='MODEL 1'
         desc='Money-back guarantee'
         desclink=''
         backgroundimg={img1}
@@ -36,7 +36,7 @@ function App() {
 
        />
         <Item
-          title='Mode1 1'
+          title='MODEL 2'
           desc='Money-back guarantee'
           desclink=''
           backgroundimg={img2}
@@ -47,7 +47,7 @@ function App() {
           twobuttons='true'
        />
         <Item
-          title='Model 2'
+          title='MODE 3'
           desc='Money-back guarantee'
           desclink=''
           backgroundimg={img3}
@@ -58,7 +58,7 @@ function App() {
           twobuttons='true'
        />
         <Item
-          title='Model 3'
+          title='MODEL 4'
           desc='Money-back guarantee'
           desclink=''
           backgroundimg={img4}
@@ -69,7 +69,7 @@ function App() {
           twobuttons='true'
        />
         <Item
-          title='Model 4'
+          title='MODEL 5'
           desc='Money-back guarantee'
           desclink=''
           backgroundimg={img5}
@@ -80,7 +80,7 @@ function App() {
           twobuttons='true'
        />
          <Item
-          title='Model 4'
+          title='MODEL 6'
           desc='Money-back guarantee'
           desclink=''
           backgroundimg={img11}
@@ -91,7 +91,7 @@ function App() {
           twobuttons='true'
        />
          <Item
-          title='Model 4'
+          title='MODEL 7'
           desc='Money-back guarantee'
           desclink=''
           backgroundimg={img12}
@@ -102,7 +102,7 @@ function App() {
           twobuttons='true'
        />
         <Item
-          title='Model 5'
+          title='MODEL 8'
           desc='Money-back guarantee'
           desclink=''
           backgroundimg={img6}
@@ -113,7 +113,7 @@ function App() {
           twobuttons='true'
        />
         <Item
-          title='Model 6'
+          title='MODEL 9'
           desc='Money-back guarantee'
           desclink=''
           backgroundimg={img7}
@@ -124,7 +124,7 @@ function App() {
           twobuttons='true'
        />
        <Item
-          title='Mode1 1'
+          title='MODEL 10'
           desc='Money-back guarantee'
           desclink=''
           backgroundimg={img8}
@@ -135,7 +135,7 @@ function App() {
           twobuttons='true'
        />
        <Item
-          title='Mode1 1'
+          title='MODEL 11'
           desc='Money-back guarantee'
           desclink=''
           backgroundimg={img9}
@@ -146,7 +146,7 @@ function App() {
           twobuttons='true'
        />
        <Item
-          title='Mode1 1'
+          title='MODEL 12'
           desc='Money-back guarantee'
           desclink=''
           backgroundimg={img10}
